@@ -1,0 +1,20 @@
+
+
+.getWeather{
+  text-align: center;
+}
+
+.WeatherForm {
+  width: 350px;
+}
+.WeatherForm button {
+  color: rgb(24, 158, 176);
+  border: 1px solid rgb(24, 158, 176);
+  background: none;
+}
+.WeatherForm input , .WeatherForm button {
+  box-sizing: border-box;
+  margin: 10px;
+  width: 100%;
+  height: 40px;
+}
