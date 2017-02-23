@@ -3,7 +3,7 @@ import React from 'react';
 var About = (props)=>{
   return (
     <div>
-      <h3>About component</h3>
+      <h3>About</h3>
       <p>welcome to the about page</p>
     </div>
   )
